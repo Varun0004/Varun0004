@@ -2,7 +2,7 @@
 - 👀 I’m interested in cricket, programming, learning new things
 - 🌱 I’m currently learning ract.js and node js
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 your can message me on whatsapp 6006678296
+- 📫 you can message me on whatsapp 6006678296
 - 😄 Pronouns: he/him
 
 <!---
